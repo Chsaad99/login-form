@@ -1,0 +1,67 @@
+body{
+    margin: 0px;
+    width: 100%;
+}
+#div1{
+    border: 1px solid black;
+    height: 440px;
+    margin: 100px;
+    background-color: rgb(225, 255, 245);
+    width: 850px;
+}
+#label1{
+    position: absolute;
+    top: 140px;
+    left: 120px;
+}
+.input1{
+    position: absolute;
+    top: 130px;
+    left: 300px;
+    width: 600px;
+    height: 30px;
+}
+#label2{
+    position: absolute;
+    top: 200px;
+    left: 120px;
+}
+.input2{
+    position: absolute;
+    top: 190px;
+    left: 300px;
+    width: 600px;
+    height: 30px;
+}
+#label3{
+    position: absolute;
+    top: 250px;
+    left: 120px;
+}
+#input3{
+    position: absolute;
+    top: 240px;
+    left: 300px;
+    width: 600px;
+    height: 30px;
+}
+#label4{
+    position: absolute;
+    top: 300px;
+    left: 120px;
+}
+.saad{
+    position: absolute;
+    top: 290px;
+    left: 300px;
+    width: 600px;
+    height: 170px;
+}
+#btn{
+    position: absolute;
+    top: 480px;
+    left: 820px;
+    width: 80px;
+    height: 30px;
+    background-color: rgb(48, 216, 48);
+}
